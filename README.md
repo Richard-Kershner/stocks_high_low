@@ -3,7 +3,7 @@ Looking at how to algo-trade in the stock market.  Of more interest is stock is 
 HTML, iPython and python files are all the same code.  The HTML is the easist to glance through.
 
 ## 1) First Look
-Note 1.4) under First look. The error of deviation shows just how random a gamble utilizing just High/Low data is.  Great start to understanding how these models work but not enough for investing.
+Note 1.4) under First look. The error of deviation shows how random a gamble utilizing only High/Low data is.  Great start to understanding how these models work but not enough for investing.
 ## 2) Pulling Data
 This is using yfinance after 4 other pulls discontinued over the years.  Pulls all Stock high/low
 ## 3) Model testing (SciKit)
