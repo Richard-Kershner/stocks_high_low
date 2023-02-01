@@ -1,4 +1,4 @@
-# stocks_high_low
+# stocks_high_low - Done in Python 3, IDE Jupyter Notebook, Anaconda
 Looking at how to algo-trade in the stock market.  Of more interest is stock is a good numerical data to experiment with different regression models and how they function in sciKit-learn Python module.
 HTML, iPython and python files are all the same code.  The HTML is the easist to glance through.
 
